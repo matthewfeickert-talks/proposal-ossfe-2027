@@ -2,13 +2,13 @@
 
 Talk proposal for Open Source Software for Fusion Energy (OSSFE) 2027
 
-## Area
-
-Software Engineering
-
 ## Type
 
 Talk
+
+## Track
+
+Software engineering & infrastructure
 
 ## Title
 
@@ -28,3 +28,11 @@ Attendees will learn how to get their software onto conda-forge and what it take
 ## Notes
 
 Matthew Feickert is a maintainer of the [staged-recipes](https://github.com/conda-forge/staged-recipes) repository for the conda-forge ecosystem and has expertise in research software design and building in multiple scientific domains. Beyond the fusion energy research community, Matthew maintains conda-forge distributions for over 100 software projects for the high energy physics community as part of the [HEP Packaging Coordination community project](https://hep-packaging-coordination.github.io/.github/).
+
+## How does this link to open-source?
+
+All of the software that is described in the talk is open source, and conda-forge itself is open source, globally distributed, public cyberinfrastructure.
+
+## I would be interested in publishing in the conference proceedings
+
+Yes.
